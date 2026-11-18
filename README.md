@@ -1,6 +1,6 @@
-# UPE-Intern-Project
 
-## Sudoku, for ZOOMERS!
+
+# Sudoku, for ZOOMERS!
 
 ### How to use
 
